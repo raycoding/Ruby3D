@@ -23,10 +23,10 @@ the code to take two Image Inputs.
 
 ### Demo
 2D Image  
-![2D Image]('http://db.tt/t3VDvVUc' "2D")
+![2D Image](http://db.tt/t3VDvVUc "2D")
 
 After processing with Ruby3D the 3D Image
-![3D Image]('http://db.tt/uVmcgYHj' "3D")
+![3D Image](http://db.tt/uVmcgYHj "3D")
 
 ### How would you have done the same on PHOTOSHOP? WITHOUT a Ruby3D!
 
